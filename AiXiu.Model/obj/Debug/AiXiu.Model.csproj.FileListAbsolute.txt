@@ -1,0 +1,14 @@
+C:\Users\小夜\Desktop\AiXiu.WebSite\AiXiu.Model\bin\Debug\AiXiu.Model.dll.config
+C:\Users\小夜\Desktop\AiXiu.WebSite\AiXiu.Model\bin\Debug\AiXiu.Model.dll
+C:\Users\小夜\Desktop\AiXiu.WebSite\AiXiu.Model\bin\Debug\AiXiu.Model.pdb
+C:\Users\小夜\Desktop\AiXiu.WebSite\AiXiu.Model\bin\Debug\EntityFramework.dll
+C:\Users\小夜\Desktop\AiXiu.WebSite\AiXiu.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\小夜\Desktop\AiXiu.WebSite\AiXiu.Model\bin\Debug\EntityFramework.xml
+C:\Users\小夜\Desktop\AiXiu.WebSite\AiXiu.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\小夜\Desktop\AiXiu.WebSite\AiXiu.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\小夜\Desktop\AiXiu.WebSite\AiXiu.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\小夜\Desktop\AiXiu.WebSite\AiXiu.Model\obj\Debug\AiXiu.Model.csproj.AssemblyReference.cache
+C:\Users\小夜\Desktop\AiXiu.WebSite\AiXiu.Model\obj\Debug\AiXiu.Model.csproj.CoreCompileInputs.cache
+C:\Users\小夜\Desktop\AiXiu.WebSite\AiXiu.Model\obj\Debug\AiXiu.Model.csproj.CopyComplete
+C:\Users\小夜\Desktop\AiXiu.WebSite\AiXiu.Model\obj\Debug\AiXiu.Model.dll
+C:\Users\小夜\Desktop\AiXiu.WebSite\AiXiu.Model\obj\Debug\AiXiu.Model.pdb
